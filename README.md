@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Front-end web development, project ideas, content creation, my favourite car just ask me anything.**
 
-- 📫 How to reach me? Head over to my <a href=""Portfolio!
+- 📫 How to reach me? Head over to my <a href="https://tm97.gatsbyjs.io/" target="blank">Portfolio!</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
