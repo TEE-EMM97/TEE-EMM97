@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏽, I'm Tev</h1>
 <h3 align="center">I'm a passionate Computer Scientist who likes to specialise in front-end development from Manchester, UK</h3>
 
-<p align="left"> <a href="https://twitter.com/est_tm97" target="blank"><img src="https://img.shields.io/twitter/follow/est_tm97?logo=twitter&style=for-the-badge" alt="est_tm97" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/est_tm97" target="blank"><img src="https://img.shields.io/twitter/follow/est_tm97?logo=twitter&style=for-the-badge" alt="est_tm97" /></a> </p> -->
 
 - 🌱 I’m currently learning **learning anything and everything. can't stop, won't stop.**
 
